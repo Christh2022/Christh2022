@@ -1,6 +1,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Christian%20MAMPASSI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Mobile%20%26%20Web%20Expert&descAlignY=51&descAlign=50" width="100%"/>
+=======
+# 👋 Bonjour, je suis Christh MAMPASSI
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%92%BC+D%C3%A9veloppeur+Full+Stack+%7C+%F0%9F%8F%97%EF%B8%8F+Architecte+Solutions;%F0%9F%93%B1+Expert+Mobile+%26+Web+%7C+%E2%98%81%EF%B8%8F+Cloud+Enthusiast" alt="Typing SVG" />
