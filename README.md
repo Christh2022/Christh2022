@@ -1,15 +1,31 @@
 <div align="center">
 
-# 👋 Bonjour, je suis Christian MAMPASSI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Christian%20MAMPASSI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Mobile%20%26%20Web%20Expert&descAlignY=51&descAlign=50" width="100%"/>
 
-### 💼 Développeur Full Stack | Architecte Solutions | Expert Mobile & Web
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%92%BC+D%C3%A9veloppeur+Full+Stack+%7C+%F0%9F%8F%97%EF%B8%8F+Architecte+Solutions;%F0%9F%93%B1+Expert+Mobile+%26+Web+%7C+%E2%98%81%EF%B8%8F+Cloud+Enthusiast" alt="Typing SVG" />
+</p>
 
-[![Email](https://img.shields.io/badge/Email-cmampassi273%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmampassi273@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![GitHub](https://img.shields.io/badge/GitHub-Christh2022-181717?style=for-the-badge&logo=github)](https://github.com/Christh2022)
-[![Portfolio](https://img.shields.io/badge/Portfolio-En_ligne-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://votre-portfolio.com)
+<p align="center">
+  <a href="mailto:cmampassi273@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/votre-profil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Christh2022">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://votre-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Christh2022&color=blueviolet&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Christh2022&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Christh2022?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20hire-success?style=for-the-badge" alt="Status" />
+</p>
 
 </div>
 
@@ -38,48 +54,69 @@ Développeur Full Stack passionné avec **3+ années d'expérience** dans la cr�
 
 ## 💻 Technologies & Compétences
 
-### Frontend
+<div align="center">
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+### 🎨 Frontend
 
-### Backend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+### ⚙️ Backend
 
-### Mobile
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
 
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+### 📱 Mobile
 
-### Base de données
+<p>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</p>
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+### 🗄️ Base de données
 
-### Outils & DevOps
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 🛠️ Outils & DevOps
 
-### Monitoring & Data
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+</p>
 
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+### 📊 Monitoring & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+</p>
+
+</div>
 
 ## 🎯 Projets Phares
 
@@ -156,15 +193,29 @@ Développeur Full Stack passionné avec **3+ années d'expérience** dans la cr�
 </tr>
 </table>
 
-## 📊 GitHub Stats
+## 📊 Statistiques GitHub
 
-![Christh2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christh2022&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christh2022&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Christh2022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Christh2022&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
 
-## 🔥 Streak Stats
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Christh2022&theme=radical)](https://git.io/streak-stats)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christh2022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Christh2022&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="98%" />
+
+</div>
+
+<div align="center">
+
+### 🏆 Trophées GitHub
+
+<img src="https://github-profile-trophy.vercel.app/?username=Christh2022&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophées" />
+
+</div>
 
 ## 💼 Expérience Professionnelle
 
@@ -215,18 +266,44 @@ _2022 - Présent_
 
 <div align="center">
 
-### 🤝 Discutons de votre projet !
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=%F0%9F%A4%9D+Discutons+de+votre+projet+!;%F0%9F%92%AC+Je+r%C3%A9ponds+g%C3%A9n%C3%A9ralement+en+24h" alt="Contact" />
 
-**Je réponds généralement dans les 24h**
+<br/>
 
-[![Email](https://img.shields.io/badge/📧_Email-cmampassi273@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmampassi273@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Me_connecter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-Discuter-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/votre-numero)
-[![Telegram](https://img.shields.io/badge/💬_Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/votre-username)
+<table align="center">
+<tr>
+<td align="center" width="200px">
+<a href="mailto:cmampassi273@gmail.com">
+<img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="50px" alt="Gmail"/><br/>
+<sub><b>Email</b></sub>
+</a>
+</td>
+<td align="center" width="200px">
+<a href="https://linkedin.com/in/votre-profil">
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="50px" alt="LinkedIn"/><br/>
+<sub><b>LinkedIn</b></sub>
+</a>
+</td>
+<td align="center" width="200px">
+<a href="https://wa.me/votre-numero">
+<img src="https://img.icons8.com/fluency/96/000000/whatsapp.png" width="50px" alt="WhatsApp"/><br/>
+<sub><b>WhatsApp</b></sub>
+</a>
+</td>
+<td align="center" width="200px">
+<a href="https://t.me/votre-username">
+<img src="https://img.icons8.com/fluency/96/000000/telegram-app.png" width="50px" alt="Telegram"/><br/>
+<sub><b>Telegram</b></sub>
+</a>
+</td>
+</tr>
+</table>
 
-**📍 Localisation:** France / Remote international  
+<br/>
+
+**📍 Localisation:** 🇫🇷 France / 🌍 Remote international  
 **🕐 Fuseau horaire:** UTC+1 (Paris)  
-**🗣️ Langues:** Français (natif), Anglais (professionnel)
+**🗣️ Langues:** Français (natif) • Anglais (professionnel)
 
 </div>
 
@@ -246,16 +323,23 @@ _2022 - Présent_
 
 <div align="center">
 
-### 🌟 Merci de votre visite !
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=%F0%9F%8C%9F+Merci+de+votre+visite+!;%F0%9F%92%BC+Ouvert+aux+opportunit%C3%A9s;%F0%9F%9A%80+Pr%C3%AAt+%C3%A0+relever+de+nouveaux+d%C3%A9fis" alt="Closing" />
+
+<br/>
 
 **N'hésitez pas à explorer mes repositories et à me contacter pour toute opportunité de collaboration.**
 
-[![Star](https://img.shields.io/badge/⭐_Mettre_une_étoile-Si_vous_aimez_mon_travail-yellow?style=for-the-badge)](https://github.com/Christh2022)
+<p>
+  <a href="https://github.com/Christh2022?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐_Voir_mes_projets-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
+  <img src="https://img.shields.io/badge/💼_Disponible_pour_CDI/Freelance-success?style=for-the-badge" alt="Status"/>
+</p>
 
-**💼 Ouvert aux opportunités professionnelles | 🚀 Prêt à relever de nouveaux défis**
+<br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Christh2022&color=blueviolet&style=for-the-badge&label=VISITEURS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-_Dernière mise à jour: Novembre 2025_
+<sub>💙 Créé avec passion par Christian MAMPASSI • Dernière mise à jour: Novembre 2025</sub>
 
 </div>
