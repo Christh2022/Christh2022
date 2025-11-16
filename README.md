@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Bonjour, je suis Christian MAMPASSI
+# 👋 Bonjour, je suis Christh MAMPASSI
 
 ### 💼 Développeur Full Stack | Architecte Solutions | Expert Mobile & Web
 
