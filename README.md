@@ -35,7 +35,7 @@
 
 ## 🚀 À propos de moi
 
-Développeur Full Stack passionné avec **3+ années d'expérience** dans la création d'applications innovantes et performantes. Spécialisé dans le développement d'applications mobiles natives et web, avec une expertise approfondie en architecture microservices et solutions cloud.
+Développeur Full Stack passionné avec **3+ années d'expérience** dans la création d'applications innovantes et performantes. Spécialisé dans le développement d'applications mobiles natives et web, avec une Connaçissance en architecture microservices et solutions cloud.
 
 **🎯 Domaines d'expertise :**
 
