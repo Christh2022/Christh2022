@@ -75,11 +75,11 @@ const mampassi = {
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6666ff&icon_color=9966ff&text_color=c9d1d9)
+![Stats](https://github-readme-stats.vercel.app/api?username=christh2022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6666ff&icon_color=9966ff&text_color=c9d1d9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6666ff&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christh2022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6666ff&text_color=c9d1d9)
 
-![Streak](https://streak-stats.demolab.com?user=TON_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=6666ff&fire=9966ff&currStreakLabel=6666ff)
+![Streak](https://streak-stats.demolab.com?user=christh2022&theme=tokyonight&hide_border=true&background=0d1117&ring=6666ff&fire=9966ff&currStreakLabel=6666ff)
 
 </div>
 
